@@ -5,4 +5,4 @@ cd ALONE
 
 git pull
 
-Python czyalone_.py
+Python czyalone.py
